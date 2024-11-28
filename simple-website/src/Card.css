@@ -1,0 +1,13 @@
+.card{
+   height: 200px;
+   width: 250px;
+   background-color: skyblue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.inner-card{
+   height: 100px;
+   width: 100px;
+   background-color: yellow;
+}

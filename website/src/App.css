@@ -1,0 +1,6 @@
+.Sidebar-Main-Container{
+   height: auto;
+   width: 100vw;
+   background-color: chartreuse;
+   display: flex;
+}

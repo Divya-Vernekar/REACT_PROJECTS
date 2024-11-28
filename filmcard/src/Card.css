@@ -1,0 +1,11 @@
+.card{
+    height: 400px;
+    width: 300px;
+    background-color: skyblue;
+}
+span{
+    color: maroon;
+}
+h3{
+    padding: 5px;
+}

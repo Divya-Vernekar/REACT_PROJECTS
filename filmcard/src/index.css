@@ -1,0 +1,10 @@
+.container{
+    height: 500px;
+    width: 100vw;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

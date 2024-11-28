@@ -1,0 +1,21 @@
+.navbar{
+    height: 60px;
+    width: 100vw;
+    background-color: #F8F6E3;
+    display: flex;
+    
+    
+}
+.nav-item-div{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-item-div:hover{
+    background-color: #97E7E1;
+}
+.nav-item{
+    font-size: 18px;
+}

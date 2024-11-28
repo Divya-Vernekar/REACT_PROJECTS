@@ -1,0 +1,13 @@
+.Main-Container{
+    width: 60vw;
+    background-color: palevioletred;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content-div{
+    width: 95%;
+    background-color: aquamarine;
+    padding-left: 30px;
+}

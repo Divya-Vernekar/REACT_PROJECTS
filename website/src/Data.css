@@ -1,0 +1,16 @@
+h1{
+    color: plum;
+}
+.ans-div{
+    width: 80%;
+
+}
+.code-div-container{
+    width: 90%;
+    background-color: bisque;
+    padding: 20px;
+}
+.code-div{
+    padding: 10px;
+    background-color: skyblue;
+}
